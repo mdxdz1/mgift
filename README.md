@@ -1,2 +1,0 @@
-# mgift
-a gift website
